@@ -30,7 +30,7 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
 I'm passionate about yoga and meditation. I find peace and clarity by practicing them regularly, which helps me stay focused and energized in my work.
 
 ### Social Media & Contact:
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg)](https://github.com/Mehedi-Hasan610) &nbsp; [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/mehedihasan610/) &nbsp; [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg)](https://www.facebook.com/Mehedi.Hasan610) &nbsp; [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg)](https://www.instagram.com/mehedi.hasan610/) &nbsp; [![About.me](https://cdn.jsdelivr.net/npm/simple-icons/icons/about-dot-me.svg)](https://blood.quantummethod.org.bd/bn/donor-profile/OPML68437)
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg)](https://github.com/Mehedi-Hasan610) &nbsp; [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/mehedihasan610/) &nbsp; [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg)](https://www.facebook.com/Mehedi.Hasan610) &nbsp; [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg)](https://www.instagram.com/mehedi.hasan610/)
 
 ### GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-Hasan610)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan610&show_icons=true&count_private=true)
