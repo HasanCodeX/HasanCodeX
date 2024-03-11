@@ -22,15 +22,23 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
 - 🤔 Mastering Redux for state management in large-scale applications and improving performance optimization techniques.
 
 ### Connect With Me:
-- 💬 Ask me about anything related to MERN stack development, front-end design best practices, or my experience with agile methodologies.
-- 📫 Reach me via [email](mailto:mehedi.hasan246@outlook.com) or [LinkedIn](https://www.linkedin.com/in/mehedihasan610/)
-- 😄 Pronouns: He/Him
+<kbd>
+  <a href="https://github.com/Mehedi-Hasan610">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/mehedihasan610/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30">
+  </a>
+  <a href="https://www.facebook.com/Mehedi.Hasan610">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" alt="Facebook" height="30">
+  </a>
+  <a href="https://www.instagram.com/mehedi.hasan610/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" alt="Instagram" height="30">
+  </a>
+</kbd>
 
 ### Fun Fact:
 I'm passionate about yoga and meditation. I find peace and clarity by practicing them regularly, which helps me stay focused and energized in my work.
-
-### Social Media & Contact:
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg)](https://github.com/Mehedi-Hasan610) &nbsp; [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/mehedihasan610/) &nbsp; [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg)](https://www.facebook.com/Mehedi.Hasan610) &nbsp; [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg)](https://www.instagram.com/mehedi.hasan610/)
 
 ### GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-Hasan610)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-Hasan610&show_icons=true&count_private=true)
