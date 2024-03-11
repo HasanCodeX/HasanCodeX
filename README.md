@@ -23,8 +23,11 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
 
 ### Connect With Me:
 <kbd>
+  <a href="mailto:mehedi.hasan246@outlook.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30">
+  </a>
   <a href="https://github.com/Mehedi-Hasan610">
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="30">
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" height="30">
   </a>
   <a href="https://www.linkedin.com/in/mehedihasan610/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30">
@@ -33,7 +36,7 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30">
   </a>
   <a href="https://www.instagram.com/mehedi.hasan610/">
-    <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" height="30">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30">
   </a>
 </kbd>
 
