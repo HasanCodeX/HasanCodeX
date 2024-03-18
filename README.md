@@ -26,16 +26,16 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
   <a href="mailto:mehedi.hasan246@outlook.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30">
   </a>
-  <a href="https://github.com/MehediCodeCraft">
+  <a href="https://github.com/HasanCodeX">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" height="30">
   </a>
-  <a href="https://www.linkedin.com/in/MehediCodeCraft/">
+  <a href="https://www.linkedin.com/in/HasanCodeX/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30">
   </a>
-  <a href="https://www.facebook.com/MehediCodeCraft">
+  <a href="https://www.facebook.com/HasanCodeX">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30">
   </a>
-  <a href="https://www.instagram.com/MehediCodeCraft/">
+  <a href="https://www.instagram.com/HasanCodeX/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30">
   </a>
 </kbd>
