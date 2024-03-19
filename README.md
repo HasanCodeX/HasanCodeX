@@ -1,30 +1,31 @@
 <!-- Background Image -->
 ![Background](https://media.licdn.com/dms/image/D5616AQF4o4UNirfuPA/profile-displaybackgroundimage-shrink_350_1400/0/1710286056864?e=1715817600&v=beta&t=0qHdtNzZyofLkyOGsg0OI_B32cU-AH2sKenVus1wWbo)
 
-# Hi there, I'm Mehedi Hasan 👋
+### 💫 About Me:
+# Hi there, I'm *Mehedi Hasan* 👋
 
 ## MERN Stack Web Developer | Crafting Impactful Web Applications
 
 Experienced MERN Stack Developer skilled in crafting dynamic web applications with a focus on seamless user experiences. Ready to bring creativity and innovation to your projects and contribute expertise in React.js, Node.js, and beyond.
 
-### Skills:
+### 💻  Skills:
 
 - React
 - JavaScript
 - HTML
 - CSS
 
-### Current Focus:
+### 👨‍💻  Current Focus:
 
 - 🔭 Enhancing my portfolio and completing coding challenges to sharpen my skills.
 - 🌱 Learning advanced React concepts such as hooks and context API, as well as diving deeper into server-side rendering with Next.js.
 
-### Looking Forward:
+### 📫  Looking Forward:
 
 - 👯 Collaborating on projects that tackle real-world problems and push the boundaries of technology.
 - 🤔 Mastering Redux for state management in large-scale applications and improving performance optimization techniques.
 
-### Connect With Me:
+### 🌐  Connect With Me:
 
 <kbd>
   <a href="mailto:mehedi.hasan246@outlook.com">
@@ -47,14 +48,37 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
   </a>
 </kbd>
 
-### Fun Fact:
+### 💬 Fun Fact:
+⚡ Fun fact **Why do React developers prefer functional components? Because they never let state get too emotional!**
 
-I'm passionate about yoga and meditation. Regular practice helps me maintain focus and energy in my work.
 
-### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasancodex&show_icons=true&count_private=true)
 
-### GitHub Streak Stats:
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hasancodex)
+
+
+
+
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=hasancodex&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=hasancodex&icon=2&color=9)](https://visitcount.itsvg.in)
+
+<!---## 💰 You can help me by Donating-->
+
+<!---[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahatsikz)--->
