@@ -18,7 +18,7 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
 ### 👨‍💻  Current Focus:
 
 - 🔭 Enhancing my portfolio and completing coding challenges to sharpen my skills.
-- 🌱 Learning advanced React concepts such as hooks and context API, as well as diving deeper into server-side rendering with Next.js.
+- 🌱 Learning **Data Structure and Algorithm**
 
 ### 📫  Looking Forward:
 
