@@ -43,7 +43,7 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
   <a href="https://www.instagram.com/HasanCodeX/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30">
   </a>
-  <a href="https://twitter.com/CodeXHasan">
+  <a href="https://twitter.com/HasanCodeX">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30">
   </a>
 </kbd>
