@@ -18,7 +18,7 @@ Experienced MERN Stack Developer skilled in crafting dynamic web applications wi
 ### 👨‍💻  Current Focus:
 
 - 🔭 Enhancing my portfolio and completing coding challenges to sharpen my skills.
-- 🌱 Learning **Data Structure and Algorithm**
+- 🌱 Learning **JavaScript**
 
 ### 📫  Looking Forward:
 
