@@ -4,7 +4,7 @@
 ### 💫 About Me:
 # Hi there, I'm *Mehedi Hasan* 👋
 
-###  MERN Stack Web Developer  
+###  A passionate MERN Stack Web Developer Bangladesh 
 
 Experienced MERN Stack Developer skilled in crafting dynamic web applications with a focus on seamless user experiences. Ready to bring creativity and innovation to your projects and contribute expertise in React.js, Node.js, and beyond.
 
