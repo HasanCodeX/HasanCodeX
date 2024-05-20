@@ -1,7 +1,6 @@
 <!-- Background Image -->
-![Background](https://www.linkedin.com/in/hasancodex/overlay/background-image/)
+![Background](https://github.com/HasanCodeX/HasanCodeX/blob/main/1710286056864.jpeg)
 
-![Background](https://www.facebook.com/photo/?fbid=393583166637205&set=a.103554942306697)
 
 ### 💫 About Me:
 # Hi there, I'm *Mehedi Hasan* 👋
