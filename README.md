@@ -1,85 +1,64 @@
-<!-- Background Image -->
-![Background](https://github.com/HasanCodeX/HasanCodeX/blob/main/1710286056864.jpeg)
+<!-- 🔵 Banner Image -->
+<p align="center">
+  <img src="./Hero.png" alt="Blue Corporate LinkedIn Banner" />
+</p>
 
-
-### 💫 About Me:
-# Hi there, I'm *Mehedi Hasan* 👋
-
-###  A passionate MERN Stack Web Developer from Bangladesh 🇧🇩
-
-Experienced MERN Stack Developer skilled in crafting dynamic web applications with a focus on seamless user experiences. Ready to bring creativity and innovation to your projects and contribute expertise in React.js, Node.js, and beyond.
-
-### 💻  Skills:
-
-
-- JavaScript
-- HTML 5
-- CSS 3
-
-### 👨‍💻  Current Focus:
-
-- 🔭 Enhancing my portfolio and completing coding challenges to sharpen my skills.
-- 🌱 Learning **JavaScript**
-
-### 📫  Looking Forward:
-
-- 👯 Collaborating on projects that tackle real-world problems and push the boundaries of technology.
-- 🤔 Mastering Redux for state management in large-scale applications and improving performance optimization techniques.
-
-### 🌐  Connect With Me:
-
-<kbd>
-  <a href="mailto:mehedi.hasan246@outlook.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30">
-  </a>
-  <a href="https://github.com/HasanCodeX">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" height="30">
-  </a>
-  <a href="https://www.linkedin.com/in/HasanCodeX/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30">
-  </a>
-  <a href="https://www.facebook.com/HasanCodeX">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="30">
-  </a>
-  <a href="https://www.instagram.com/HasanCodeX/">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30">
-  </a>
-  <a href="https://twitter.com/HasanCodeX">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30">
-  </a>
-</kbd>
-
-### 💬 Fun Fact:
-⚡ Fun fact **Why do React developers prefer functional components? Because they never let state get too emotional!**
-
-
-
-
-
-
-
-
-
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=hasancodex&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hasancodex&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancodex&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=hasancodex&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- 🧠 Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&width=600&lines=MERN+Stack+Developer+💻;Frontend+Enthusiast+🎨;Open+Source+Lover+🌍;Building+Pixel-Perfect+UI+✨" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hasancodex&icon=2&color=9)](https://visitcount.itsvg.in)
+## 👋 Nice to meet you!
 
-<!---## 💰 You can help me by Donating-->
+I’m **Mehedi Hasan**, a passionate **MERN Stack Developer** from **Bangladesh** 🇧🇩.
 
-<!---[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahatsikz)--->
+I love creating **frontend-focused**, responsive and visually appealing web apps that not only look good but also perform beautifully. My mission? To craft UIs that feel as intuitive as they are delightful, powered by modern backend tools.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,vite,git,github,vercel,netlify,firebase" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<!--   <a href="https://facebook.com/hasancodex"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> -->
+  <a href="https://linkedin.com/in/mehedi-hasan1102"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   <a href="https://instagram.com/hasancodex"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
+  <a href="https://x.com/mehedihasan1102"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:mehedi.hasan11023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=synthwave">
+    <img alt="Mehedi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hasancodex?cardType=octocat&theme=synthwave&preferLogin=false&Title=F5F5F5&Background=0D1117&Ring=F5F5F5&Text=F5F5F5&Border=F5F5F5" />
+  </a>
+</p>
+
+
+
+## ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+
+
+---
+
+
+<!-- Proudly styled and crafted with 💙 by Mehedi Hasan -->
